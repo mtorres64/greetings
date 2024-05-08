@@ -5,7 +5,7 @@ Este paquete prporciona una forma simple de obtener saludos personalizados en GO
 ## Instalacion
 Ejecuta el siguiente comando para instalar el paquete:
 ```bash
-go get -u github.com/MarceloTorres06/greetings
+go get -u github.com/mtorres64/greetings
 ```
 
 ## Uso
