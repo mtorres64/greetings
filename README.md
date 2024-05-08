@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/MarceloTorres06/greetings"
+	"github.com/mtorres64/greetings"
 )
 
 func main() {
